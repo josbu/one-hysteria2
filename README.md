@@ -4,7 +4,7 @@
 使用以下命令来安装Hysteria2:
 
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/josbu/one-hysteria2/main/hysteria.sh && bash hysteria.sh
+bash <(curl -fsSL https://github.com/josbu/one-hysteria2/raw/main/hysteria.sh)
 ```
 
 ## 配置私钥权限
